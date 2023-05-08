@@ -22,7 +22,7 @@ repositories {
     maven { url 'https://jitpack.io' }
 }
 dependencies {
-    compileOnly "com.github.MilkBowl:VaultAPI:1.7"
+    compileOnly "com.github.JustReddy7397:SkyWarsAPI:1.0.0"
 }
 ```
 ---
